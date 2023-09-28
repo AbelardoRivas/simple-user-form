@@ -1,0 +1,16 @@
+node_modules
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+/ignored
+
+*.lock
+yarn.lock
+package-lock.json
+
+.env
+
+# production
+/build
